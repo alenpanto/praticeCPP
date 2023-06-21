@@ -1,1 +1,2 @@
-# praticeCPP
+# c++
+pratice for c++ program
